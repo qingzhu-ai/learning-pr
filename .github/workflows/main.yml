@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say Hi
-        run: echo "Hello, I'm your first robot'
+        run: echo "Hello, I'm your first robot"
